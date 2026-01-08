@@ -1,0 +1,18 @@
+{
+    "Vacio": {
+        "motivo": "",
+        "plan": ""
+    },
+    "Insuficiencia Cardíaca": {
+        "motivo": "Disnea de esfuerzos progresiva, ortopnea y DPN. Aumento de volumen en EEII.",
+        "plan": "1. Furosemida __ mg EV\n2. Restricción hidrosalina\n3. Control peso diario\n4. Balance hídrico estricto\n5. Evaluar función renal y ELP"
+    },
+    "NAC (Neumonía)": {
+        "motivo": "Fiebre cuantificada, tos con expectoración purulenta y puntada de costado.",
+        "plan": "1. Antibiótico: Ceftriaxona 2g/día\n2. O2 para sat > 92%\n3. Antipiréticos SOS\n4. Kinesioterapia respiratoria"
+    },
+    "Pielonefritis": {
+        "motivo": "Disuria, poliaquiuria, fiebre y dolor lumbar.",
+        "plan": "1. Hidratación parenteral\n2. Analgesia\n3. Urocultivo tomado\n4. ATB inicio: ..."
+    }
+}

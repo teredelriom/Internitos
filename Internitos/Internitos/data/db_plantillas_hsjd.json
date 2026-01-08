@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "Consentimiento Informado (Genérico)",
+        "categoria": "Consentimientos",
+        "contenido": "YO, ___________________________________, RUT: _______________,\n\nDeclaro que he sido informado/a por el Dr/Dra. ___________________ sobre la naturaleza, propósito, riesgos y beneficios del procedimiento: ___________________________________.\n\nSe me ha explicado que:\n1. El procedimiento consiste en...\n2. Los riesgos principales incluyen...\n3. Existen alternativas como...\n\nHe tenido la oportunidad de hacer preguntas y han sido respondidas a mi satisfacción.\n\nFirma Paciente: ___________________\nFecha: ___/___/_____"
+    },
+    {
+        "titulo": "Epicrisis Breve (Alta)",
+        "categoria": "Epicrisis",
+        "contenido": "*** RESUMEN DE ALTA ***\n\nPACIENTE: \nRUT: \nFECHA INGRESO: \nFECHA ALTA: \n\nDIAGNÓSTICOS AL ALTA:\n1. \n2. \n\nRESUMEN EVOLUCIÓN:\nPaciente que evoluciona febril/afebril, hemodinámicamente estable. Completa tratamiento antibiótico con...\n\nINDICACIONES AL ALTA:\n1. Reposo relativo por __ días.\n2. Régimen liviano.\n3. Fármacos:\n   - Paracetamol 500mg c/8h SOS dolor.\n   - \n4. Control en policlínico en 7 días."
+    },
+    {
+        "titulo": "Constatación de Lesiones",
+        "categoria": "Administrativo",
+        "contenido": "FECHA Y HORA: ___/___/____  __:__ hrs\nMOTIVO DE CONSULTA: Constatación de Lesiones (Carabineros/PDI)\n\nRELATO:\nPaciente refiere agresión por terceros consistente en...\n\nEXAMEN FÍSICO:\n- Consciente, orientado, GCS 15.\n- Cabeza: Sin lesiones visibles / Hematoma en...\n- Tórax: Sin lesiones.\n- Extremidades: Erosiones superficiales en...\n\nDIAGNÓSTICO:\n1. Politraumatismo leve.\n2. Lesiones clínicamente leves.\n\nPLAN:\n- Alta a domicilio.\n- Aines SOS.\n- Se entrega hoja DAU a personal policial."
+    },
+    {
+        "titulo": "Solicitud Interconsulta (IC)",
+        "categoria": "Administrativo",
+        "contenido": "SOLICITUD DE INTERCONSULTA\n\nDE: Medicina Interna\nA: ___________________\n\nPACIENTE: ___________________ (Edad: __)\n\nHIPÓTESIS DIAGNÓSTICA:\n1. \n\nMOTIVO DE SOLICITUD:\nSe solicita evaluación por especialidad para...\n\nBREVE RESUMEN:\nPaciente cursando hospitalización por... Actualmente estable, pero requiere..."
+    },
+    {
+        "titulo": "Alta Médica Estándar",
+        "categoria": "Administrativo",
+        "contenido": "Paciente evoluciona estable, afebril y sin requerimientos de oxígeno...\n\nINDICACIONES AL ALTA:\n1. Reposo relativo.\n2. Régimen liviano.\n3. Control en policlínico en 7 días."
+    },
+    {
+        "titulo": "Consentimiento CVC",
+        "categoria": "Consentimientos",
+        "contenido": "Yo, ____________, rut: __________, declaro haber sido informado sobre los riesgos y beneficios del procedimiento de Instalación de Vía Venosa Central..."
+    }
+]

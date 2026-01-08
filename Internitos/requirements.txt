@@ -1,0 +1,3 @@
+flet
+cryptography
+graphviz  # Opcional: Solo si el usuario tiene instalado Graphviz en Windows

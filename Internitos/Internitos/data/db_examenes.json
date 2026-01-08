@@ -1,0 +1,218 @@
+[
+  {
+    "Examen": "Glucosa",
+    "Grupo": "Niños",
+    "Rango": "40 – 100 mg/dL",
+    "Significado": "Hiperglicemia: diabetes mellitus, Cushing. Hipoglicemia: ayuno, insulina."
+  },
+  {
+    "Examen": "Glucosa (LCR)",
+    "Grupo": "Adultos",
+    "Rango": "40 – 70 mg/dL",
+    "Significado": "Bajos niveles sugieren meningitis bacteriana, tuberculosa, tumores."
+  },
+  {
+    "Examen": "Nitrógeno ureico (BUN)",
+    "Grupo": "Niños",
+    "Rango": "6 – 20 mg/dL",
+    "Significado": "Aumento: falla renal, deshidratación, shock. Disminución: falla hepática."
+  },
+  {
+    "Examen": "Creatinina",
+    "Grupo": "Adultos",
+    "Rango": "0.7 – 1.3 mg/dL",
+    "Significado": "Aumento: Insuficiencia renal aguda o crónica, obstrucción urinaria."
+  },
+  {
+    "Examen": "Alanino aminotransferasa (ALT/GPT)",
+    "Grupo": "Población general",
+    "Rango": "30,0 – 65,0 U/L",
+    "Significado": "Elevada en necrosis hepatocelular (hepatitis viral, tóxica, isquémica)."
+  },
+  {
+    "Examen": "Aspartato aminotransferasa (AST/GOT)",
+    "Grupo": "Población general",
+    "Rango": "15,0 – 37,0 U/L",
+    "Significado": "Elevada en daño celular. Relación AST/ALT > 2 sugiere daño por alcohol."
+  },
+  {
+    "Examen": "Albúmina",
+    "Grupo": "Población general",
+    "Rango": "3,4 – 5,4 g/dL",
+    "Significado": "Disminuida en cirrosis, desnutrición, síndrome nefrótico."
+  },
+  {
+    "Examen": "Bilirrubina Total",
+    "Grupo": "Población general",
+    "Rango": "0,20 – 1,00 mg/dL",
+    "Significado": "Ictericia clínica > 2,5 mg/dL. Daño hepático, hemólisis, obstrucción."
+  },
+  {
+    "Examen": "Gamma-glutamiltransferasa (GGT)",
+    "Grupo": "Población general",
+    "Rango": "5,0 – 85,0 U/L",
+    "Significado": "Muy sensible para enfermedad hepatobiliar y consumo de alcohol."
+  },
+  {
+    "Examen": "Fosfatasas Alcalinas (FA)",
+    "Grupo": "Adultos",
+    "Rango": "50,0 – 136,0 U/L",
+    "Significado": "Elevada en colestasis (obstrucción biliar) o enfermedad ósea."
+  },
+  {
+    "Examen": "Sodio Sérico (Na)",
+    "Grupo": "Adultos",
+    "Rango": "136 – 146 mEq/L",
+    "Significado": "Hipernatremia: deshidratación. Hiponatremia: ICC, cirrosis, SIADH."
+  },
+  {
+    "Examen": "Potasio Sérico (K)",
+    "Grupo": "Adultos",
+    "Rango": "3,5 – 5,0 mEq/L",
+    "Significado": "Hiperkalemia: falla renal, acidosis. Hipokalemia: diuréticos, vómitos."
+  },
+  {
+    "Examen": "Cloro Sérico",
+    "Grupo": "Adultos",
+    "Rango": "95 – 109 mEq/L",
+    "Significado": "Se altera en trastornos ácido-base y del agua."
+  },
+  {
+    "Examen": "Calcio Sérico",
+    "Grupo": "Adultos",
+    "Rango": "8,7 – 10,5 mg/dL",
+    "Significado": "Hipercalcemia: Hiperparatiroidismo, cáncer. Hipocalcemia: Pancreatitis, falla renal."
+  },
+  {
+    "Examen": "Proteína C Reactiva (PCR)",
+    "Grupo": "General",
+    "Rango": "< 10 mg/L (o < 1.0 mg/dL)",
+    "Significado": "Marcador de inflamación sistémica o infección bacteriana."
+  },
+  {
+    "Examen": "Hemoglobina (Hb)",
+    "Grupo": "Hombres",
+    "Rango": "13,5 – 17,5 g/dL",
+    "Significado": "Bajo: Anemia. Alto: Policitemia."
+  },
+  {
+    "Examen": "Hemoglobina (Hb)",
+    "Grupo": "Mujeres",
+    "Rango": "12,0 – 16,0 g/dL",
+    "Significado": "Bajo: Anemia. Alto: Policitemia."
+  },
+  {
+    "Examen": "Leucocitos Totales",
+    "Grupo": "Adultos",
+    "Rango": "4.000 – 11.000 /µL",
+    "Significado": "Leucocitosis: Infección, estrés. Leucopenia: Inmunosupresión, sepsis severa."
+  },
+  {
+    "Examen": "Plaquetas",
+    "Grupo": "General",
+    "Rango": "150.000 – 450.000 /µL",
+    "Significado": "Trombocitopenia: Riesgo sangrado. Trombocitosis: Reactiva o mieloproliferativa."
+  },
+  {
+    "Examen": "Tiempo de Protrombina (TP)",
+    "Grupo": "Adultos",
+    "Rango": "70 – 120 %",
+    "Significado": "Bajo %: Daño hepático, déficit Vit K, uso de tacos (Warfarina)."
+  },
+  {
+    "Examen": "INR",
+    "Grupo": "Adultos",
+    "Rango": "0.9 – 1.1",
+    "Significado": "Alto: Anticoagulación, daño hepático. Meta en TACO suele ser 2.0-3.0."
+  },
+  {
+    "Examen": "TTPa (KPTT)",
+    "Grupo": "Adultos",
+    "Rango": "25 – 35 seg",
+    "Significado": "Prolongado: Heparina, Hemofilia, Anticoagulante lúpico."
+  },
+  {
+    "Examen": "pH Arterial",
+    "Grupo": "Gases",
+    "Rango": "7.35 – 7.45",
+    "Significado": "< 7.35 Acidosis. > 7.45 Alcalosis."
+  },
+  {
+    "Examen": "pCO2",
+    "Grupo": "Gases",
+    "Rango": "35 – 45 mmHg",
+    "Significado": "> 45 Acidosis Respiratoria (Hipoventilación). < 35 Alcalosis Resp."
+  },
+  {
+    "Examen": "Bicarbonato (HCO3)",
+    "Grupo": "Gases",
+    "Rango": "22 – 26 mEq/L",
+    "Significado": "Bajo: Acidosis Metabólica. Alto: Alcalosis Metabólica."
+  },
+  {
+    "Examen": "Lactato",
+    "Grupo": "Gases",
+    "Rango": "0.5 – 2.0 mmol/L",
+    "Significado": "Elevado: Hipoperfusión tisular, sepsis, shock."
+  },
+  {
+    "Examen": "TSH",
+    "Grupo": "Adultos",
+    "Rango": "0.4 – 4.0 uUI/mL",
+    "Significado": "Alta: Hipotiroidismo. Baja: Hipertiroidismo."
+  },
+  {
+    "Examen": "T4 Libre",
+    "Grupo": "Adultos",
+    "Rango": "0.9 – 1.7 ng/dL",
+    "Significado": "Confirmación de patología tiroidea junto a TSH."
+  },
+  {
+    "Examen": "Procalcitonina",
+    "Grupo": "Sepsis",
+    "Rango": "< 0.5 ng/mL",
+    "Significado": "Marcador específico de infección bacteriana severa / Sepsis."
+  },
+  {
+    "Examen": "Ferritina",
+    "Grupo": "Adultos",
+    "Rango": "30 – 400 ng/mL",
+    "Significado": "Baja: Ferropenia. Alta: Inflamación (reactante fase aguda) o sobrecarga."
+  },
+  {
+    "Examen": "Vitamina B12",
+    "Grupo": "Adultos",
+    "Rango": "200 – 900 pg/mL",
+    "Significado": "Déficit causa anemia megaloblástica y síntomas neurológicos."
+  },
+  {
+    "Examen": "Ácido Úrico",
+    "Grupo": "Adultos",
+    "Rango": "3.5 – 7.2 mg/dL",
+    "Significado": "Elevado en Gota, insuficiencia renal, lisis tumoral."
+  },
+  {
+    "Examen": "Amilasa",
+    "Grupo": "Adultos",
+    "Rango": "28 – 100 U/L",
+    "Significado": "Elevada en Pancreatitis Aguda (3x valor normal)."
+  },
+  {
+    "Examen": "Lipasa",
+    "Grupo": "Adultos",
+    "Rango": "13 – 60 U/L",
+    "Significado": "Más específica para Pancreatitis Aguda que la amilasa."
+  },
+  {
+    "Examen": "Troponina T/I",
+    "Grupo": "Cardio",
+    "Rango": "Negativo / Bajo umbral",
+    "Significado": "Elevación indica daño miocárdico (Infarto, Miocarditis, TEP)."
+  },
+  {
+    "Examen": "Dímero D",
+    "Grupo": "Cardio",
+    "Rango": "< 500 ng/mL",
+    "Significado": "Alto valor predictivo negativo para TEP/TVP. Se eleva en inflamación."
+  }
+]

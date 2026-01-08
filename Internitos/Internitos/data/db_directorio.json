@@ -1,0 +1,34 @@
+[
+    {
+        "Unidad": "Ficha Electrónica (Rayen)",
+        "Anexo": "2020",
+        "Usuario": "interno_mi",
+        "Contraseña": "HSJD.2024!",
+        "Ubicación": "Web",
+        "Notas": "Clave genérica internos"
+    },
+    {
+        "Unidad": "PC Residencia Médica",
+        "Anexo": "",
+        "Usuario": "residencia",
+        "Contraseña": "1234",
+        "Ubicación": "Piso 3",
+        "Notas": "No cambiar fondo de pantalla"
+    },
+    {
+        "Unidad": "Laboratorio",
+        "Anexo": "2234",
+        "Usuario": "",
+        "Contraseña": "",
+        "Ubicación": "Piso 1",
+        "Notas": "Solo consultas telefónicas"
+    },
+    {
+        "Unidad": "Imagenología (Rayos)",
+        "Anexo": "2250",
+        "Usuario": "visita_medica",
+        "Contraseña": "rx_view_2024",
+        "Ubicación": "Subsuelo",
+        "Notas": "Clave para ver scanner"
+    }
+]

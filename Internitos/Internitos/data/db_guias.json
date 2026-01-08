@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "IAM con SDST (Manejo Inicial)",
+        "tags": ["Cardiología", "Urgencia", "GES"],
+        "contenido": "### Manejo del Infarto Agudo al Miocardio con Supradesnivel del ST\n\nEl tiempo es músculo. El objetivo principal es la **reperfusión inmediata**.\n\n1.  **Diagnóstico:** ECG < 10 minutos.\n2.  **Activación:** Llamar a Hemodinamia si disponible < 120 min.\n3.  **Fármacos:** Carga de Aspirina 250mg + Clopidogrel 300-600mg.",
+        "diagrama_dot": "digraph G {\n  rankdir=TB;\n  node [shape=box, style=filled, fillcolor=\"#E3F2FD\", fontname=\"Helvetica\"];\n  \n  Start [label=\"Paciente con Dolor Torácico\", shape=oval, fillcolor=\"#FFEBEE\"];\n  ECG [label=\"ECG < 10 min\"];\n  SDST [label=\"¿Tiene SDST?\", shape=diamond, fillcolor=\"#FFF3E0\"];\n  Tiempo [label=\"¿Tiempo a PCI < 120 min?\", shape=diamond, fillcolor=\"#FFF3E0\"];\n  \n  Start -> ECG;\n  ECG -> SDST;\n  SDST -> Tiempo [label=\"Sí\"];\n  SDST -> Obs [label=\"No (Evaluar SCASEST)\"];\n  \n  Tiempo -> PCI [label=\"Sí (Angioplastía)\"];\n  Tiempo -> Trombo [label=\"No (Trombolisis)\"];\n  \n  PCI [label=\"Traslado a Hemodinamia\\n(PCI Primaria)\", fillcolor=\"#C8E6C9\"];\n  Trombo [label=\"Fibrinolisis in situ\\n(< 10 min)\", fillcolor=\"#FFCDD2\"];\n  Obs [label=\"Protocolo Dolor Torácico\", style=dashed];\n}"
+    },
+    {
+        "titulo": "Cetoacidosis Diabética (CAD)",
+        "tags": ["Endocrino", "UTI", "Metabólico"],
+        "contenido": "### Protocolo de Cetoacidosis\nCriterios diagnósticos:\n* Glicemia > 250 mg/dL\n* pH < 7.3\n* HCO3 < 18\n* Cetonemia positiva\n\n**Pilares:** Hidratación agresiva, Insulina EV, Potasio.",
+        "diagrama_dot": "digraph CAD {\n  rankdir=TB;\n  node [shape=box, fontname=\"Arial\"];\n  \n  Ingreso [label=\"Sospecha CAD\"];\n  Fluidos [label=\"SF 0.9% 1000cc en 1h\", color=blue];\n  K [label=\"¿K+ sérico?\", shape=diamond];\n  \n  Ingreso -> Fluidos;\n  Fluidos -> K;\n  \n  K -> Insulina [label=\"> 3.3\"];\n  K -> Reponer [label=\"< 3.3\"];\n  \n  Insulina [label=\"Insulina 0.1 U/kg/h\", style=filled, fillcolor=lightgreen];\n  Reponer [label=\"Reponer K+ y postergar insulina\", style=filled, fillcolor=yellow];\n}"
+    },
+    {
+        "titulo": "Sepsis y Shock Séptico",
+        "tags": ["UCI", "Infectología"],
+        "contenido": "Resucitación inicial de la sepsis (Campaña Sobreviviendo a la Sepsis).\n* Cultivos antes de ATB.\n* ATB en < 1 hora.\n* Cristaloides 30ml/kg si hipotensión o lactato > 4.",
+        "diagrama_dot": ""
+    }
+]
